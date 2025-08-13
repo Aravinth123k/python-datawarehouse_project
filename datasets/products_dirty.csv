@@ -1,0 +1,1001 @@
+product_id,product_name,category,price,cost,in_stock
+PROD1000,customer-focused needs-based open system, Clothing,191.3,219.15,False
+PROD1001,Visionary client-server access ,,169.76,226.91,False
+PROD1002,Cross-Platform Intangible Portal,,335.93,63.62,False
+PROD1003,pre-emptive attitude-oriented forecast,sports,486.33,37.9,True
+PROD1004,Down-Sized Transitional Benchmark,beauty,21.02,101.63,False
+PROD1005,CONFIGURABLE BOTTOM-LINE CONGLOMERATION, Health,322.16,81.31,False
+PROD1006,AUTOMATED ENCOMPASSING HIERARCHY, Beauty,237.36,122.1,True
+PROD1007,sharable leadingedge moderator,Clothing ,479.19,110.22,True
+PROD1008,face-to-face content-based process improvement,AUTOMOTIVE,186.6,46.12,True
+PROD1009,Persevering zero administration framework ,Books ,34.11,132.97,True
+PROD1010,MANAGED OPTIMAL CONGLOMERATION,,218.26,88.5,False
+PROD1011,Cross-Group Maximized Algorithm,SPORTS,84.32,219.66,True
+PROD1012,exclusive leadingedge system engine,Sports,113.47,218.24,True
+PROD1013,Business-Focused Optimizing Portal,sports,444.67,121.42,False
+PROD1014,secured encompassing artificial intelligence,Toys,259.47,40.49,False
+PROD1015,rEALIGNED MISSION-CRITICAL STRATEGY, Grocery,454.96,204.92,True
+PROD1016,Fundamental Upward-Trending Local Area Network,Clothing,188.17,38.59,False
+PROD1017,Right-sized demand-driven process improvement ,Toys,358.11,95.07,False
+PROD1018,cross-group tangible collaboration, Books,397.93,80.49,False
+PROD1019,sELF-ENABLING IMPACTFUL THROUGHPUT,Clothing ,23.3,132.74,True
+PROD1020,PROACTIVE FAULT-TOLERANT NEURAL-NET,,460.04,211.47,True
+PROD1021,Progressive local portal ,Automotive ,24.11,20.17,True
+PROD1022,pUBLIC-KEY TANGIBLE ABILITY,Toys ,13.36,56.19,False
+PROD1023,tOTAL MODULAR MATRIX,Electronics,392.4,76.36,False
+PROD1024,aDVANCED HYBRID MONITORING,electronics,142.62,249.73,True
+PROD1025,RIGHT-SIZED HUMAN-RESOURCE HUB,CLOTHING,230.19,80.35,False
+PROD1026,fUNDAMENTAL ZERO TOLERANCE WORKFORCE, Health,138.32,235.58,True
+PROD1027,enterprise-wide context-sensitive knowledgebase,grocery,373.64,36.14,False
+PROD1028,Integrated Didactic Access,Electronics ,206.72,56.31,True
+PROD1029,mandatory multi-state core, Clothing,289.64,49.62,False
+PROD1030,Advanced bottom-line orchestration ,Clothing,369.42,55.02,True
+PROD1031,proactive homogeneous project,ELECTRONICS,197.37,104.24,False
+PROD1032,intuitive exuding workforce,sports,42.53,65.64,False
+PROD1033,Monitored grid-enabled success ,books,440.64,156.75,False
+PROD1034,USER-FRIENDLY HIGH-LEVEL FUNCTION,Grocery,216.28,70.18,False
+PROD1035,UPGRADABLE BIFURCATED INFO-MEDIARIES,Home & Kitchen ,264.91,155.96,False
+PROD1036,ADAPTIVE STATIC KNOWLEDGEBASE,home & kitchen,487.04,21.94,True
+PROD1037,pHASED LOGISTICAL STANDARDIZATION,TOYS,144.48,37.89,False
+PROD1038,CENTRALIZED BACKGROUND KNOWLEDGEBASE, Toys,74.01,131.42,False
+PROD1039,DOWN-SIZED UNIFORM CAPABILITY,BOOKS,330.42,121.06,True
+PROD1040,eXTENDED BOTTOM-LINE MODEL,HOME & KITCHEN,153.66,241.67,False
+PROD1041,rEALIGNED ANALYZING iNTERNET SOLUTION,sports,427.23,237.34,False
+PROD1042,Multi-Channeled 24/7 Knowledgebase, Beauty,437.02,77.85,False
+PROD1043,Profit-Focused Object-Oriented Adapter,,53.58,208.1,False
+PROD1044,fUNDAMENTAL RESPONSIVE HARDWARE, Health,492.0,5.64,False
+PROD1045,TRIPLE-BUFFERED LOGISTICAL INFRASTRUCTURE,beauty,382.07,206.13,False
+PROD1046,Progressive logistical intranet , Clothing,35.35,116.59,False
+PROD1047,reverse-engineered systematic extranet, Grocery,494.3,178.55,True
+PROD1048,Compatible Reciprocal Graphical User Interface,Health ,28.06,129.08,False
+PROD1049,Sharable analyzing ability ,,76.4,214.15,True
+PROD1050,uP-SIZED UPWARD-TRENDING PARADIGM,Clothing ,131.26,130.28,False
+PROD1051,Universal Dedicated Open System, Health,317.93,73.24,False
+PROD1052,Switchable 5thgeneration core ,Automotive,453.08,233.21,True
+PROD1053,REACTIVE FRESH-THINKING PARADIGM, Grocery,123.33,39.96,
+PROD1054,eRGONOMIC BIFURCATED COMPLEXITY,Beauty ,189.37,121.49,True
+PROD1055,Object-Based 4Thgeneration Contingency,beauty,68.22,32.92,True
+PROD1056,VERSATILE VALUE-ADDED CORE, Clothing,286.15,26.88,True
+PROD1057,mONITORED INTERACTIVE INTERFACE,automotive,377.68,16.72,False
+PROD1058,Switchable contextually-based extranet ,Health,239.27,71.88,False
+PROD1059,integrated 24hour ability,CLOTHING,148.37,191.41,False
+PROD1060,MULTI-TIERED SYSTEMIC LEVERAGE,Beauty,157.51,176.23,True
+PROD1061,fully-configurable demand-driven portal,TOYS,420.17,205.81,False
+PROD1062,monitored dedicated internet solution,BOOKS,407.93,75.88,True
+PROD1063,decentralized executive circuit,sports,339.22,121.62,False
+PROD1064,SHARABLE HOMOGENEOUS WORKFORCE, Health,295.7,158.28,True
+PROD1065,Stand-Alone Discrete Middleware,Grocery ,115.02,86.23,False
+PROD1066,up-sized optimal alliance,Electronics,426.82,854.7,False
+PROD1067,Centralized Asynchronous Migration,books,296.2,55.56,False
+PROD1068,Re-engineered zero tolerance migration , Toys,431.81,131.33,False
+PROD1069,uSER-FRIENDLY EMPOWERING ALLIANCE,BEAUTY,104.83,230.58,True
+PROD1070,sYNERGISTIC OPTIMAL MATRIX,Health ,315.96,22.47,text_False
+PROD1071,multi-channeled multimedia model,Toys,342.77,242.74,Fal...
+PROD1072,BALANCED MULTI-TASKING ADAPTER,Grocery ,258.61,224.28,True
+PROD1073,mANAGED COMPOSITE INSTRUCTION SET,HEALTH,18.25,99.1,False
+PROD1074,Front-Line Transitional Frame,Books ,228.87,10.24,True
+PROD1075,DECENTRALIZED HOLISTIC STRUCTURE,ELECTRONICS,271.0,8.37,True
+PROD1076,STAND-ALONE FOREGROUND SOFTWARE,TOYS,307.89,238.58,True
+PROD1077,proactive eco-centric forecast,health,174.27,152.56,True
+PROD1078,eNHANCED INCREMENTAL MODEL,TOYS,427.03,174.02,True
+PROD1079,Virtual Explicit Middleware,Electronics ,296.25,79.55,True
+PROD1080,GRASS-ROOTS RESPONSIVE MONITORING,grocery,469.79,213.97,True
+PROD1081,Multi-Tiered Foreground Help-Desk,ELECTRONICS,298.95,,True
+PROD1082,SELF-ENABLING MOTIVATING COLLABORATION,Health ,312.57,175.62,True
+PROD1083,cOMPATIBLE HYBRID UTILIZATION,Clothing,414.67,36.34,True
+PROD1084,Managed Human-Resource Firmware,Electronics,407.49,237.71,True
+PROD1085,Polarized leadingedge implementation ,ELECTRONICS,245.28,220.95,False
+PROD1086,rOBUST GRID-ENABLED NEURAL-NET, Sports,26.26,217.29,True
+PROD1087,iNTEGRATED FAULT-TOLERANT UTILIZATION, Health,391.67,249.0,False
+PROD1088,Phased methodical open system ,,363.73,59.71,True
+PROD1089,Organic stable strategy ,Sports ,460.3,229.05,True
+PROD1090,Function-based dedicated product ,Health,216.98,173.92,True
+PROD1091,front-line mission-critical software,grocery,314.68,203.58,True
+PROD1092,de-engineered multi-tasking structure,Clothing ,294.55,102.69,True
+PROD1093,Synergistic holistic intranet ,Health,220.79,192.19,True
+PROD1094,fUNCTION-BASED 3RDGENERATION PARALLELISM,Grocery ,286.28,178.85,True
+PROD1095,function-based optimal process improvement,BOOKS,220.78,185.74,False
+PROD1096,proactive coherent open system, Books,93.4,86.08,False
+PROD1097,fRONT-LINE EXECUTIVE MIGRATION, Books,265.44,66.82,False
+PROD1098,Universal solution-oriented flexibility ,clothing,82.91,2209.1,False
+PROD1099,pERSISTENT REAL-TIME ARRAY,Sports ,323.85,103.5,True
+PROD1100,ENHANCED CONTEXT-SENSITIVE APPROACH,automotive,381.68,201.91,False
+PROD1101,advanced disintermediate graphic interface,health,82.69,174.36,False
+PROD1102,Triple-buffered systemic paradigm , Home & Kitchen,131.04,47.46,False
+PROD1103,Assimilated Methodical Open Architecture,Sports ,133.87,448.9,True
+PROD1104,Phased attitude-oriented collaboration ,Sports,138.65,189.32,False
+PROD1105,dE-ENGINEERED COHERENT PORTAL,Toys,401.09,247.09,True
+PROD1106,up-sized optimizing flexibility, Electronics,188.19,231.81,True
+PROD1107,Vision-Oriented Fresh-Thinking Array,Books ,220.47,51.45,True
+PROD1108,Multi-Tiered Regional Service-Desk,electronics,492.71,74.25,True
+PROD1109,Programmable Transitional Knowledgebase,Automotive ,346.99,225.23,True
+PROD1110,PROACTIVE MODULAR INSTRUCTION SET,Beauty,139.07,221.7,True
+PROD1111,DISTRIBUTED RECIPROCAL ADAPTER,electronics,132.79,,False
+PROD1112,ameliorated context-sensitive paradigm,Beauty ,13.24,33.38,False
+PROD1113,ROBUST NEXT GENERATION EXTRANET, Health,66.46,68.42,True
+PROD1114,Innovative real-time service-desk ,,306.29,194.76,False
+PROD1115,Pre-emptive interactive moderator , Health,499.82,200.23,
+PROD1116,SEAMLESS RADICAL FUNCTIONALITIES,electronics,343.24,108.94,True
+PROD1117,Multi-Layered Solution-Oriented Monitoring, Sports,192.48,171.69,True
+PROD1118,Persistent attitude-oriented methodology ,TOYS,474.51,,False
+PROD1119,Polarized multi-tasking process improvement , Electronics,101.97,28.77,True
+PROD1120,Right-Sized Background Policy,grocery,269.4,,True
+PROD1121,integrated motivating open architecture,Clothing ,404.09,176.12,False
+PROD1122,Diverse Motivating Approach,Electronics,411.38,172.55,False
+PROD1123,grass-roots clear-thinking service-desk,Sports,464.48,,False
+PROD1124,Synergized Static Forecast,Automotive ,22.47,195.44,False
+PROD1125,Visionary intermediate analyzer ,Clothing ,487.31,87.43,True
+PROD1126,Organic System-Worthy Success, Electronics,147.91,224.47,False
+PROD1127,decentralized hybrid encryption,health,21.04,105.96,False
+PROD1128,MULTI-TIERED BANDWIDTH-MONITORED SUPERSTRUCTURE, Clothing,498.84,47.87,True
+PROD1129,RE-ENGINEERED SYSTEMATIC MODERATOR,Automotive ,444.03,81.19,False
+PROD1130,Reduced 24hour initiative ,Health ,95.25,11.84,False
+PROD1131,pUBLIC-KEY INTERMEDIATE INFRASTRUCTURE,Sports ,125.97,203.72,True
+PROD1132,Managed Multi-State Migration, Beauty,364.2,138.77,False
+PROD1133,Horizontal 5Thgeneration Algorithm, Clothing,472.72,162.24,False
+PROD1134,Extended analyzing structure ,electronics,348.89,24.55,True
+PROD1135,pERSEVERING COMPOSITE FRAMEWORK,BEAUTY,148.61,121.98,True
+PROD1136,ENTERPRISE-WIDE EMPOWERING PARALLELISM,HEALTH,303.99,165.39,False
+PROD1137,Vision-Oriented Modular Hub,home & kitchen,34.82,131.22,True
+PROD1138,Balanced interactive budgetary management , Electronics,123.72,159.4,False
+PROD1139,Self-Enabling Grid-Enabled Superstructure,Grocery ,471.93,113.58,False
+PROD1140,Customer-Focused Well-Modulated Instruction Set,sports,146.91,,False
+PROD1141,Cross-Group Explicit Service-Desk,BEAUTY,180.33,95.0,False
+PROD1142,Fully-configurable next generation software , Books,261.9,73.23,False
+PROD1143,Stand-alone intermediate support ,AUTOMOTIVE,158.22,72.69,True
+PROD1144,PROGRAMMABLE SCALABLE INITIATIVE,Toys,63.18,192.96,True
+PROD1145,Progressive Secondary Internet Solution,HEALTH,230.68,64.58,False
+PROD1146,Polarized Holistic Product,Toys ,18.39,249.8,True
+PROD1147,stand-alone well-modulated process improvement,Beauty,181.78,237.98,False
+PROD1148,OPEN-SOURCE CLIENT-SERVER CONTINGENCY, Beauty,135.22,106.48,True
+PROD1149,HORIZONTAL CLIENT-SERVER ENCRYPTION, Grocery,315.96,9.1,True
+PROD1150,inverse asymmetric software, Books,87.81,108.33,True
+PROD1151,MANAGED ATTITUDE-ORIENTED ANALYZER,HEALTH,352.57,89.82,True
+PROD1152,reverse-engineered needs-based knowledgebase,BOOKS,208.64,45.58,False
+PROD1153,Face-to-face radical neural-net ,Clothing ,251.83,176.31,True
+PROD1154,Grass-roots optimizing array ,,186.38,57.36,False
+PROD1155,rEACTIVE COHESIVE SYSTEM ENGINE,Beauty,76.07,85.36,True
+PROD1156,ENHANCED MOTIVATING CONGLOMERATION,SPORTS,69.8,145.99,True
+PROD1157,gRASS-ROOTS FULL-RANGE PRICING STRUCTURE,,89.11,139.06,False
+PROD1158,FULLY-CONFIGURABLE NON-VOLATILE SOLUTION, Beauty,321.18,107.77,False
+PROD1159,pre-emptive zero tolerance complexity,Toys ,146.56,193.59,False
+PROD1160,oRGANIC DIDACTIC APPLICATION,Health,311.19,85.24,True
+PROD1161,QUALITY-FOCUSED RECIPROCAL INTERFACE,books,111.46,221.35,False
+PROD1162,Multi-Layered Stable Complexity,Toys ,367.98,116.19,False
+PROD1163,user-centric background graphical user interface,automotive,127.14,33.71,True
+PROD1164,FACE-TO-FACE GLOBAL FOCUS GROUP,GROCERY,442.07,65.7,True
+PROD1165,innovative system-worthy architecture,CLOTHING,297.08,,True
+PROD1166,OPTIONAL INTERMEDIATE UTILIZATION,Home & Kitchen ,163.96,230.22,True
+PROD1167,REACTIVE RECIPROCAL CONTINGENCY, Sports,472.17,128.48,False
+PROD1168,CLONED CLEAR-THINKING SUPPORT,GROCERY,71.26,176.09,False
+PROD1169,Devolved 6Thgeneration Hub,Grocery ,482.38,222.04,True
+PROD1170,rEALIGNED HOLISTIC PROJECT, Grocery,31.14,144.35,True
+PROD1171,Mandatory intermediate policy ,Clothing,293.24,13.15,Fal...
+PROD1172,sEAMLESS EXUDING SOFTWARE,ELECTRONICS,398.03,17.61,False
+PROD1173,Public-key hybrid instruction set ,Automotive ,379.21,,True
+PROD1174,fACE-TO-FACE CLIENT-SERVER gRAPHICAL uSER iNTERFACE,Grocery,351.0,89.0,True
+PROD1175,Function-Based Cohesive Architecture,Sports ,19.06,54.98,False
+PROD1176,synergized motivating alliance,Books,161.96,,True
+PROD1177,REALIGNED GLOBAL LEVERAGE, Home & Kitchen,158.3,100.19,False
+PROD1178,AUTOMATED LOGISTICAL ABILITY,Electronics ,39.03,222.6,True
+PROD1179,ADAPTIVE ACTUATING GRAPHICAL USER INTERFACE,clothing,381.86,184.47,False
+PROD1180,User-centric background superstructure , Health,120.84,,False
+PROD1181,Programmable Web-Enabled Graphical User Interface, Automotive,480.15,196.54,False
+PROD1182,Universal bottom-line Graphic Interface ,Electronics,3313.2999999999997,,True
+PROD1183,eNTERPRISE-WIDE GLOBAL INFRASTRUCTURE,Books ,317.56,231.31,False
+PROD1184,Compatible Next Generation Graphical User Interface,electronics,51.64,,text_False
+PROD1185,Implemented Non-Volatile Focus Group,Automotive ,106.76,130.54,True
+PROD1186,streamlined uniform task-force,Grocery,170.63,89.23,False
+PROD1187,Decentralized Real-Time Process Improvement,CLOTHING,140.8,142.0,False
+PROD1188,Stand-Alone Multi-State Forecast,Automotive,155.38,233.28,False
+PROD1189,pROFIT-FOCUSED OBJECT-ORIENTED FUNCTIONALITIES,sports,147.37,29.09,False
+PROD1190,Polarized background extranet ,Home & Kitchen ,355.0,108.45,True
+PROD1191,cOMPATIBLE HYBRID MATRIX,books,331.75,153.5,False
+PROD1192,switchable high-level framework,home & kitchen,8.65,819.4,True
+PROD1193,configurable discrete benchmark,beauty,95.54,187.4,False
+PROD1194,de-engineered explicit projection,Beauty ,381.18,34.43,True
+PROD1195,Enhanced modular Internet solution ,grocery,278.31,172.48,False
+PROD1196,CLONED USER-FACING SUPERSTRUCTURE,Grocery ,163.48,108.56,True
+PROD1197,Face-To-Face Multi-State Conglomeration,Clothing ,430.7,4.49,False
+PROD1198,Expanded Zero-Defect Service-Desk,CLOTHING,252.08,247.35,True
+PROD1199,Optional Zero Tolerance Utilization,Health ,278.65,86.39,True
+PROD1200,ROBUST COMPOSITE APPROACH,CLOTHING,376.71,121.5,True
+PROD1201,dIVERSE ACTUATING APPROACH,Home & Kitchen ,251.13,20.53,True
+PROD1202,DECENTRALIZED NEEDS-BASED BUDGETARY MANAGEMENT,AUTOMOTIVE,77.64,152.19,True
+PROD1203,CLONED ZERO ADMINISTRATION TIME-FRAME, Automotive,86.77,8.99,True
+PROD1204,Reverse-Engineered Regional Synergy,Sports,412.61,125.07,True
+PROD1205,iNNOVATIVE REAL-TIME ARCHITECTURE,CLOTHING,395.45,83.52,True
+PROD1206,eXCLUSIVE GLOBAL INTERFACE, Beauty,13.82,48.66,False
+PROD1207,programmable disintermediate analyzer,CLOTHING,281.39,72.08,True
+PROD1208,Proactive high-level intranet ,,206.82,203.17,False
+PROD1209,decentralized user-facing open architecture,ELECTRONICS,59.21,249.69,False
+PROD1210,Front-line background protocol ,AUTOMOTIVE,249.75,50.84,True
+PROD1211,innovative radical synergy,GROCERY,470.43,210.68,False
+PROD1212,qUALITY-FOCUSED BACKGROUND SUCCESS,Toys,239.56,,False
+PROD1213,Ameliorated dedicated Graphical User Interface ,toys,307.89,92.13,False
+PROD1214,BALANCED ANALYZING LOCAL AREA NETWORK,HOME & KITCHEN,458.19,112.9,False
+PROD1215,fUNDAMENTAL DYNAMIC PRODUCT,Toys,111.07,241.66,True
+PROD1216,STREAMLINED DISINTERMEDIATE INTRANET,Sports,220.99,99.7,True
+PROD1217,vERSATILE EMPOWERING SUCCESS,AUTOMOTIVE,124.26,185.79,True
+PROD1218,Adaptive Leadingedge Budgetary Management,Sports ,496.2,212.54,True
+PROD1219,Synergistic encompassing paradigm , Electronics,15.76,149.99,True
+PROD1220,qUALITY-FOCUSED COMPOSITE ARCHIVE, Electronics,425.7,151.01,True
+PROD1221,future-proofed fresh-thinking success, Toys,206.56,127.54,True
+PROD1222,ergonomic foreground definition,HOME & KITCHEN,489.9,236.0,True
+PROD1223,Up-Sized 5Thgeneration Moderator,Beauty,236.42,226.22,True
+PROD1224,Ergonomic full-range ability ,health,319.64,214.02,False
+PROD1225,automated mission-critical initiative, Automotive,286.68,204.7,True
+PROD1226,Synergized optimal system engine ,Sports ,57.92,155.35,True
+PROD1227,Public-key homogeneous extranet , Beauty,474.89,197.58,False
+PROD1228,Seamless Scalable Installation,AUTOMOTIVE,315.09,179.7,True
+PROD1229,MANAGED MISSION-CRITICAL STANDARDIZATION,,146.22,235.71,True
+PROD1230,cUSTOMER-FOCUSED ANALYZING POLICY,Home & Kitchen ,169.11,75.05,True
+PROD1231,Streamlined Systematic Moderator,Beauty,20.87,118.58,Tru...
+PROD1232,persevering zero tolerance policy,Toys,113.26,,True
+PROD1233,CROSS-GROUP MULTI-STATE ATTITUDE,TOYS,215.96,240.84,False
+PROD1234,Quality-Focused Intermediate Migration,BEAUTY,133.77,208.13,True
+PROD1235,eXCLUSIVE STATIC INFRASTRUCTURE,GROCERY,104.4,20.09,True
+PROD1236,pHASED COHESIVE PROCESS IMPROVEMENT,toys,310.23,86.87,False
+PROD1237,UP-SIZED RECIPROCAL MODERATOR,Automotive ,285.4,58.3,False
+PROD1238,REVERSE-ENGINEERED REGIONAL MORATORIUM, Health,445.95,218.59,True
+PROD1239,Multi-Layered Upward-Trending Adapter,BEAUTY,262.02,233.84,False
+PROD1240,Optional disintermediate collaboration ,Clothing ,278.42,62.73,True
+PROD1241,networked zero administration complexity,Health ,130.66,3.29,False
+PROD1242,TEAM-ORIENTED ENCOMPASSING MONITORING,,450.41,182.88,True
+PROD1243,fOCUSED 5THGENERATION gRAPHICAL uSER iNTERFACE,clothing,485.87,90.3,True
+PROD1244,sWITCHABLE VALUE-ADDED STRATEGY, Toys,245.35,173.86,True
+PROD1245,mandatory global alliance,Health,41.39,154.6,False
+PROD1246,aUTOMATED CONTEXTUALLY-BASED CAPABILITY,Health,139.77,4.37,False
+PROD1247,re-contextualized discrete model,ELECTRONICS,10.32,158.92,True
+PROD1248,triple-buffered directional workforce, Clothing,98.27,167.32,True
+PROD1249,Enhanced Coherent Infrastructure,TOYS,11.51,2.26,True
+PROD1250,Switchable Optimal Neural-Net, Electronics,324.44,222.77,True
+PROD1251,programmable secondary project, Health,415.21,,True
+PROD1252,Open-architected intangible hub ,ELECTRONICS,434.67,,True
+PROD1253,streamlined even-keeled solution, Beauty,134.01,198.04,False
+PROD1254,cUSTOMIZABLE USER-FACING HIERARCHY,TOYS,277.86,,False
+PROD1255,Future-Proofed Analyzing Groupware,Toys,352.4,,False
+PROD1256,profit-focused explicit conglomeration,Toys,365.41,7.93,True
+PROD1257,Universal multi-state hardware ,HEALTH,22.87,74.05,False
+PROD1258,seamless interactive neural-net,SPORTS,117.33,156.09,Tru...
+PROD1259,integrated static benchmark,Home & Kitchen ,192.83,7.83,True
+PROD1260,pRE-EMPTIVE RECIPROCAL ARCHITECTURE,Beauty,138.45,,True
+PROD1261,reactive analyzing collaboration,home & kitchen,391.05,192.32,False
+PROD1262,extended web-enabled benchmark,clothing,80.13,186.9,True
+PROD1263,Visionary Mobile Archive,Sports ,460.07,4.82,True
+PROD1264,OPEN-SOURCE SECONDARY ARCHITECTURE,beauty,430.42,71.05,text_True
+PROD1265,oPEN-SOURCE MOTIVATING PROJECT,Books,261.2,40.78,True
+PROD1266,profit-focused dynamic interface, Grocery,412.13,222.83,True
+PROD1267,Open-Architected Background Strategy,health,194.84,13.99,False
+PROD1268,Extended regional paradigm ,Automotive,87.2,240.71,False
+PROD1269,enhanced asymmetric parallelism,Books ,160.45,216.16,True
+PROD1270,tOTAL ZERO-DEFECT INSTALLATION,health,8.11,206.09,True
+PROD1271,synchronized maximized adapter, Electronics,488.28,2.01,False
+PROD1272,quality-focused logistical firmware,Automotive,388.16,13.81,False
+PROD1273,secured value-added benchmark,Sports,5.69,209.77,False
+PROD1274,VISIONARY ENCOMPASSING SUPERSTRUCTURE,SPORTS,414.29,124.97,False
+PROD1275,FRONT-LINE STATIC INTERFACE, Sports,93.96,214.94,False
+PROD1276,Focused Fault-Tolerant Implementation,AUTOMOTIVE,464.46,195.48,False
+PROD1277,oRGANIC NATIONAL ATTITUDE, Beauty,103.94,164.41,True
+PROD1278,Intuitive Needs-Based Hierarchy,HOME & KITCHEN,110.3,24.24,True
+PROD1279,sTREAMLINED EXUDING DEFINITION,TOYS,468.24,200.48,False
+PROD1280,uNIVERSAL RECIPROCAL APPLICATION,Toys ,248.15,26.78,True
+PROD1281,Quality-Focused Empowering Attitude, Home & Kitchen,52.64,200.0,True
+PROD1282,FACE-TO-FACE NEEDS-BASED APPLICATION,Electronics ,281.57,8.76,False
+PROD1283,switchable hybrid function,books,306.2,116.39,False
+PROD1284,Open-architected upward-trending complexity , Clothing,339.04,197.45,False
+PROD1285,INTEGRATED ASYMMETRIC LEVERAGE,BEAUTY,220.74,6.87,False
+PROD1286,Right-sized fresh-thinking data-warehouse , Automotive,381.87,143.58,True
+PROD1287,Implemented Foreground Infrastructure,HEALTH,358.88,239.51,True
+PROD1288,Intuitive Impactful Success,,8.76,176.24,False
+PROD1289,FUNDAMENTAL ZERO TOLERANCE HIERARCHY,Automotive ,201.12,221.58,False
+PROD1290,Robust user-facing implementation , Electronics,188.95,30.95,True
+PROD1291,Fully-Configurable Bi-Directional Installation,SPORTS,477.11,107.18,True
+PROD1292,visionary 5thgeneration utilization,Beauty,21.25,150.68,True
+PROD1293,PUBLIC-KEY RECIPROCAL POLICY,GROCERY,137.65,20.93,False
+PROD1294,function-based national neural-net, Clothing,52.72,23.91,False
+PROD1295,Up-sized high-level approach ,Clothing,13.23,92.3,False
+PROD1296,pRE-EMPTIVE COHERENT STRATEGY,Home & Kitchen,299.4,200.34,True
+PROD1297,CUSTOMER-FOCUSED BOTTOM-LINE STRATEGY,TOYS,360.09,131.74,True
+PROD1298,PHASED ECO-CENTRIC CONTINGENCY,BEAUTY,183.85,101.32,False
+PROD1299,SHARABLE REAL-TIME ATTITUDE, Electronics,426.37,203.68,False
+PROD1300,DISTRIBUTED LEADINGEDGE CAPABILITY,AUTOMOTIVE,28.97,23.47,True
+PROD1301,Switchable Non-Volatile Function,AUTOMOTIVE,242.67,,True
+PROD1302,Triple-Buffered Maximized Throughput,Grocery ,423.28,1503.8,True
+PROD1303,ameliorated intermediate open system,Books ,411.52,143.61,True
+PROD1304,front-line global software,SPORTS,263.47,51.36,False
+PROD1305,CLONED DISINTERMEDIATE BUDGETARY MANAGEMENT,Books ,490.69,225.03,True
+PROD1306,Profound Contextually-Based Intranet,Beauty,17.62,99.69,True
+PROD1307,ORGANIC FRESH-THINKING PRICING STRUCTURE,electronics,415.82,236.01,True
+PROD1308,User-friendly cohesive emulation ,Health,443.79,47.86,False
+PROD1309,Cross-platform national protocol ,,252.87,65.75,False
+PROD1310,ADAPTIVE WEB-ENABLED NEURAL-NET,grocery,357.83,41.34,True
+PROD1311,Adaptive heuristic matrix ,,303.12,243.28,False
+PROD1312,Sharable asymmetric extranet ,Clothing ,103.31,17.62,False
+PROD1313,public-key cohesive intranet,Health ,276.26,116.82,False
+PROD1314,Expanded Composite Array,Home & Kitchen,183.65,117.71,False
+PROD1315,INTUITIVE ATTITUDE-ORIENTED FRAME, Home & Kitchen,380.75,101.41,False
+PROD1316,Persevering mission-critical Graphical User Interface ,automotive,425.31,164.55,False
+PROD1317,pROGRESSIVE STABLE MATRICES,clothing,290.38,203.96,False
+PROD1318,BALANCED DYNAMIC PARALLELISM,Sports ,229.51,31.23,True
+PROD1319,FUTURE-PROOFED UNIFORM MODERATOR,Sports,350.92,35.15,False
+PROD1320,User-friendly modular migration ,,163.07,63.63,False
+PROD1321,uSER-FRIENDLY NEEDS-BASED OPEN SYSTEM,,258.84,247.11,True
+PROD1322,eXCLUSIVE ASYMMETRIC LEVERAGE,health,59.53,211.74,True
+PROD1323,Multi-channeled mobile leverage , Books,360.62,21.68,True
+PROD1324,Re-Contextualized Eco-Centric Moderator,Beauty,91.66,,True
+PROD1325,Stand-alone systematic product , Home & Kitchen,321.38,237.67,True
+PROD1326,oRGANIZED EXUDING CUSTOMER LOYALTY,Sports,428.37,155.06,True
+PROD1327,Team-Oriented Transitional Extranet,Electronics,62.74,171.64,False
+PROD1328,Diverse Logistical Contingency,Clothing,432.67,146.17,True
+PROD1329,Configurable radical neural-net ,Automotive ,373.27,72.61,True
+PROD1330,Operative Fault-Tolerant Graphical User Interface, Automotive,210.51,13.12,True
+PROD1331,secured coherent neural-net, Home & Kitchen,285.42,22.46,False
+PROD1332,customizable 3rdgeneration methodology,sports,180.52,223.56,True
+PROD1333,Quality-Focused 4Thgeneration Groupware,BEAUTY,312.55,117.26,False
+PROD1334,switchable demand-driven synergy, Beauty,169.96,2.92,False
+PROD1335,mONITORED TRANSITIONAL INFO-MEDIARIES,GROCERY,180.32,157.44,False
+PROD1336,hORIZONTAL ASYNCHRONOUS MORATORIUM,CLOTHING,425.59,1261.7,False
+PROD1337,vISION-ORIENTED FULL-RANGE EXTRANET,BOOKS,35.14,26.62,False
+PROD1338,Quality-focused multimedia success ,Home & Kitchen,214.71,1629.6000000000001,True
+PROD1339,Quality-Focused System-Worthy Forecast, Sports,370.27,214.54,True
+PROD1340,mULTI-LATERAL GLOBAL SOLUTION,,65.96,237.79,False
+PROD1341,Self-Enabling Regional Service-Desk,Books ,333.16,197.45,True
+PROD1342,Multi-Lateral Dynamic Budgetary Management, Beauty,382.89,25.91,True
+PROD1343,bALANCED COMPOSITE OPEN ARCHITECTURE, Toys,346.57,95.73,True
+PROD1344,Future-Proofed Client-Server Local Area Network,home & kitchen,310.3,175.2,False
+PROD1345,Focused Modular Encryption, Automotive,402.67,153.56,False
+PROD1346,face-to-face actuating algorithm, Electronics,335.02,129.91,True
+PROD1347,Centralized stable superstructure ,CLOTHING,494.65,217.9,False
+PROD1348,distributed leadingedge internet solution,GROCERY,62.28,224.7,True
+PROD1349,fUTURE-PROOFED BANDWIDTH-MONITORED SUCCESS,Home & Kitchen,372.62,6.15,False
+PROD1350,tEAM-ORIENTED REGIONAL gRAPHICAL uSER iNTERFACE,Books,67.59,54.08,True
+PROD1351,Future-Proofed Composite Model,Books,437.66,118.16,True
+PROD1352,TEAM-ORIENTED BOTTOM-LINE PARALLELISM, Home & Kitchen,425.97,40.71,False
+PROD1353,SYNCHRONIZED ZERO ADMINISTRATION STANDARDIZATION,,26.3,90.93,True
+PROD1354,Stand-alone attitude-oriented productivity , Electronics,141.14,108.62,False
+PROD1355,networked clear-thinking graphic interface, Home & Kitchen,17.14,100.09,False
+PROD1356,automated multimedia standardization,Beauty,291.6,144.44,False
+PROD1357,Cross-Group Object-Oriented Standardization,Books,405.88,93.23,True
+PROD1358,managed system-worthy circuit,Electronics ,193.21,144.97,False
+PROD1359,pRE-EMPTIVE TANGIBLE EXTRANET,,328.98,199.27,True
+PROD1360,cLONED UNIFORM FUNCTION,SPORTS,301.26,225.89,False
+PROD1361,Multi-Channeled Well-Modulated Orchestration,AUTOMOTIVE,105.74,193.24,True
+PROD1362,Balanced 3rdgeneration pricing structure ,TOYS,111.44,56.8,True
+PROD1363,Adaptive Motivating Collaboration,ELECTRONICS,395.86,214.32,True
+PROD1364,distributed bandwidth-monitored utilization,Automotive ,154.98,182.6,False
+PROD1365,fundamental 24hour function,clothing,350.0,238.5,True
+PROD1366,customer-focused intangible benchmark,Grocery ,4597.6,204.47,Tru...
+PROD1367,USER-FRIENDLY ZERO-DEFECT PROCESS IMPROVEMENT, Beauty,244.98,69.54,True
+PROD1368,fOCUSED COHERENT OPEN SYSTEM,BOOKS,242.26,6.66,False
+PROD1369,uPGRADABLE ACTUATING APPROACH,,413.34,90.51,False
+PROD1370,CLONED MODULAR INFRASTRUCTURE,Clothing,2683.2999999999997,32.62,False
+PROD1371,Multi-lateral static infrastructure ,Clothing,115.94,108.47,False
+PROD1372,Reduced Static Model, Beauty,16.0,,False
+PROD1373,down-sized maximized graphic interface,,12.61,,False
+PROD1374,intuitive hybrid adapter,toys,10.55,144.6,False
+PROD1375,Digitized tangible knowledge user ,grocery,179.79,143.53,False
+PROD1376,FUTURE-PROOFED DEMAND-DRIVEN ACCESS,Books,426.52,121.45,False
+PROD1377,Synergized Optimal Alliance,Beauty,369.82,150.32,True
+PROD1378,Decentralized uniform complexity , Sports,338.74,74.37,False
+PROD1379,Future-proofed disintermediate time-frame , Home & Kitchen,462.23,248.02,True
+PROD1380,pROGRAMMABLE UPWARD-TRENDING FUNCTION,GROCERY,299.92,,True
+PROD1381,RE-CONTEXTUALIZED LOGISTICAL INSTRUCTION SET,automotive,302.73,199.69,False
+PROD1382,Face-To-Face Attitude-Oriented Attitude,beauty,264.4,196.9,False
+PROD1383,reactive object-oriented array,,99.9,94.41,False
+PROD1384,MULTI-LATERAL HUMAN-RESOURCE FRAMEWORK,clothing,486.09,53.57,False
+PROD1385,distributed system-worthy utilization,GROCERY,479.56,125.97,False
+PROD1386,Expanded Dedicated Groupware,toys,482.98,94.68,True
+PROD1387,pROFIT-FOCUSED WELL-MODULATED STRATEGY,GROCERY,47.4,118.83,False
+PROD1388,eNHANCED HUMAN-RESOURCE ATTITUDE,Books ,214.85,232.57,True
+PROD1389,pOLARIZED 6THGENERATION ARCHIVE,books,228.71,148.87,False
+PROD1390,Centralized real-time Internet solution ,SPORTS,224.82,154.47,False
+PROD1391,optional next generation capacity,toys,36.28,162.49,False
+PROD1392,RIGHT-SIZED 24/7 DEFINITION, Health,177.37,4.35,True
+PROD1393,proactive regional algorithm,home & kitchen,213.59,188.58,True
+PROD1394,Enhanced Motivating Methodology,Clothing,349.76,122.18,True
+PROD1395,ORGANIZED SYSTEMIC COLLABORATION,Beauty ,191.44,170.61,True
+PROD1396,Multi-Layered Foreground Open Architecture, Home & Kitchen,251.17,101.01,False
+PROD1397,Phased maximized circuit ,health,478.07,2.58,True
+PROD1398,inverse modular extranet, Sports,464.92,143.28,True
+PROD1399,Inverse motivating firmware ,toys,125.75,107.84,True
+PROD1400,hORIZONTAL BOTTOM-LINE SERVICE-DESK,Beauty ,475.59,166.08,True
+PROD1401,quality-focused upward-trending encryption,Grocery ,253.99,,True
+PROD1402,aSSIMILATED SECONDARY THROUGHPUT,Automotive,242.98,136.88,True
+PROD1403,business-focused web-enabled strategy,CLOTHING,263.54,65.52,False
+PROD1404,horizontal attitude-oriented collaboration,SPORTS,294.64,167.42,True
+PROD1405,CROSS-GROUP LOCAL ENCRYPTION, Sports,115.92,45.77,False
+PROD1406,fULLY-CONFIGURABLE USER-FACING KNOWLEDGE USER,BOOKS,412.32,195.14,True
+PROD1407,Sharable Directional Analyzer, Health,67.78,35.42,False
+PROD1408,Optimized Stable Implementation,BOOKS,222.79,80.19,False
+PROD1409,optional 6thgeneration interface,Electronics,204.69,68.77,True
+PROD1410,customer-focused static protocol,,113.49,146.23,True
+PROD1411,cUSTOMER-FOCUSED FOREGROUND ALLIANCE,Home & Kitchen,21.65,102.52,True
+PROD1412,multi-layered full-range open system, Home & Kitchen,30.54,147.74,True
+PROD1413,Up-Sized National Application,Clothing,298.41,53.82,True
+PROD1414,nETWORKED FRESH-THINKING COLLABORATION,sports,464.26,72.63,True
+PROD1415,mANDATORY CONTENT-BASED ANALYZER,Grocery ,93.47,113.73,True
+PROD1416,mULTI-TIERED COHERENT FRAMEWORK,Grocery,97.9,98.36,False
+PROD1417,right-sized web-enabled contingency, Electronics,176.89,53.53,False
+PROD1418,OPEN-ARCHITECTED REAL-TIME STANDARDIZATION,Automotive,89.59,11.77,True
+PROD1419,aDVANCED UNIFORM APPLICATION,Electronics,223.88,,True
+PROD1420,Profound Transitional Ability,clothing,42.82,4.39,True
+PROD1421,Cross-group regional emulation ,GROCERY,442.08,131.13,False
+PROD1422,Triple-Buffered Optimal Benchmark, Home & Kitchen,13.68,120.69,True
+PROD1423,Cross-platform discrete challenge ,Clothing ,378.61,218.69,True
+PROD1424,versatile web-enabled ability, Beauty,315.39,174.01,True
+PROD1425,eNTERPRISE-WIDE WEB-ENABLED THROUGHPUT,BEAUTY,109.43,7.15,False
+PROD1426,aDVANCED INTERACTIVE PORTAL,AUTOMOTIVE,469.46,26.69,True
+PROD1427,Grass-Roots Uniform Migration,toys,283.47,181.17,False
+PROD1428,Integrated Multi-State Website,Clothing,426.25,58.69,True
+PROD1429,mULTI-CHANNELED CLIENT-DRIVEN CAPACITY,Home & Kitchen,137.68,33.97,False
+PROD1430,Multi-lateral local data-warehouse ,BEAUTY,233.78,92.66,False
+PROD1431,Object-based tangible extranet ,clothing,305.11,235.84,False
+PROD1432,INNOVATIVE NATIONAL SOLUTION,HOME & KITCHEN,355.22,98.24,True
+PROD1433,Switchable Bi-Directional Graphical User Interface,clothing,96.62,,True
+PROD1434,Cross-platform scalable complexity ,Grocery,477.77,68.73,True
+PROD1435,De-engineered regional frame ,grocery,348.92,194.33,True
+PROD1436,qUALITY-FOCUSED FOREGROUND IMPLEMENTATION, Books,474.91,95.38,False
+PROD1437,phased directional monitoring,Books ,101.84,212.3,True
+PROD1438,REVERSE-ENGINEERED DIDACTIC CONCEPT,TOYS,264.74,185.37,True
+PROD1439,right-sized intangible projection,Electronics,307.71,298.8,True
+PROD1440,oPTIONAL EXPLICIT THROUGHPUT,Clothing,40.54,62.67,False
+PROD1441,Profound real-time orchestration ,Automotive ,184.76,70.64,True
+PROD1442,Customer-Focused System-Worthy Attitude,HEALTH,489.95,77.22,True
+PROD1443,Assimilated intermediate knowledge user ,Clothing ,349.52,,True
+PROD1444,HORIZONTAL OPTIMIZING PRODUCT, Health,133.36,85.75,False
+PROD1445,Fully-Configurable Bifurcated Matrix,toys,116.31,138.56,
+PROD1446,Customizable Holistic Functionalities,toys,93.42,207.38,text_True
+PROD1447,object-based web-enabled model,Beauty,33.2,20.49,False
+PROD1448,Enhanced 24/7 utilization , Beauty,49.41,75.51,False
+PROD1449,Versatile web-enabled collaboration ,Automotive ,256.54,241.96,False
+PROD1450,monitored high-level system engine,,158.57,220.46,False
+PROD1451,aMELIORATED IMPACTFUL CONTINGENCY,Sports ,363.12,198.28,True
+PROD1452,Face-to-face optimizing firmware ,Health ,401.58,54.73,True
+PROD1453,cLONED DYNAMIC FRAME, Sports,227.87,207.85,True
+PROD1454,fOCUSED MULTIMEDIA APPROACH, Home & Kitchen,356.96,239.92,True
+PROD1455,USER-CENTRIC USER-FACING SUCCESS,Beauty ,64.96,160.19,False
+PROD1456,Reduced contextually-based firmware ,Books,102.66,26.06,True
+PROD1457,REALIGNED ANALYZING ARCHIVE,Sports ,254.94,238.92,False
+PROD1458,tEAM-ORIENTED DIRECTIONAL FRAME,Automotive ,191.38,2.24,False
+PROD1459,Persistent Hybrid Methodology, Clothing,487.34,177.55,text_False
+PROD1460,QUALITY-FOCUSED HEURISTIC ENCRYPTION,Clothing ,345.48,124.69,True
+PROD1461,Universal Needs-Based Internet Solution,AUTOMOTIVE,374.47,108.23,text_False
+PROD1462,vIRTUAL ASYMMETRIC THROUGHPUT, Clothing,249.69,,False
+PROD1463,ERGONOMIC OPTIMIZING KNOWLEDGEBASE,Home & Kitchen ,417.55,90.04,True
+PROD1464,PERSISTENT FAULT-TOLERANT INTERFACE,ELECTRONICS,96.66,34.74,False
+PROD1465,Assimilated Fault-Tolerant Infrastructure,Books,190.89,50.13,False
+PROD1466,Balanced Optimizing Help-Desk,toys,324.74,65.52,False
+PROD1467,Organized Bifurcated Product,BEAUTY,252.79,110.05,True
+PROD1468,CENTRALIZED METHODICAL SOFTWARE, Automotive,326.91,,True
+PROD1469,DIVERSE EMPOWERING INFO-MEDIARIES,Toys ,106.08,27.44,False
+PROD1470,rEACTIVE ANALYZING gRAPHIC iNTERFACE,clothing,11.0,,True
+PROD1471,Extended Analyzing Structure, Automotive,339.6,42.28,True
+PROD1472,Diverse didactic collaboration ,Beauty,292.4,235.2,True
+PROD1473,Total global definition ,Sports,353.49,88.73,False
+PROD1474,PROFIT-FOCUSED NATIONAL KNOWLEDGEBASE,Beauty,320.89,116.23,False
+PROD1475,Diverse contextually-based projection ,health,325.31,203.84,True
+PROD1476,Extended scalable solution ,Home & Kitchen,375.12,131.88,False
+PROD1477,rEDUCED DIRECTIONAL CONCEPT,Books,42.44,39.94,True
+PROD1478,Mandatory real-time algorithm ,Electronics,254.5,199.49,False
+PROD1479,vISIONARY EMPOWERING PRICING STRUCTURE, Electronics,418.33,171.72,False
+PROD1480,FRONT-LINE DISCRETE WEBSITE,HOME & KITCHEN,416.23,,False
+PROD1481,EXPANDED HOMOGENEOUS TOOLSET,home & kitchen,120.51,67.88,True
+PROD1482,Sharable Encompassing Paradigm, Toys,184.8,,True
+PROD1483,Vision-oriented clear-thinking hardware ,HOME & KITCHEN,465.84,158.78,True
+PROD1484,Seamless stable software ,HOME & KITCHEN,395.93,39.28,True
+PROD1485,Fully-configurable background matrix ,Books,24.44,201.75,Fal...
+PROD1486,DE-ENGINEERED ACTUATING SYSTEM ENGINE,Automotive ,111.83,119.33,True
+PROD1487,SECURED NATIONAL NEURAL-NET,clothing,297.58,242.96,False
+PROD1488,mANDATORY ZERO TOLERANCE SUPERSTRUCTURE,,236.55,45.05,False
+PROD1489,TEAM-ORIENTED VALUE-ADDED MORATORIUM,Sports,96.36,190.16,True
+PROD1490,Universal methodical structure ,Toys,176.23,60.96,True
+PROD1491,mANAGED DEDICATED PARALLELISM,Books ,47.12,89.42,True
+PROD1492,intuitive zero tolerance software,Books ,204.88,115.24,True
+PROD1493,Ergonomic analyzing attitude , Books,343.48,71.43,True
+PROD1494,bUSINESS-FOCUSED OBJECT-ORIENTED INITIATIVE,BEAUTY,182.92,187.32,False
+PROD1495,PROGRAMMABLE HOLISTIC ACCESS,clothing,114.35,90.34,True
+PROD1496,ORGANIZED LEADINGEDGE PROTOCOL,Health,260.98,104.34,False
+PROD1497,sharable executive methodology,health,352.44,139.72,False
+PROD1498,eNTERPRISE-WIDE HIGH-LEVEL FORECAST,HEALTH,481.56,150.13,True
+PROD1499,Open-architected systemic circuit , Automotive,181.79,155.95,True
+PROD1500,up-sized transitional matrices, Home & Kitchen,147.46,163.5,False
+PROD1501,HORIZONTAL INTERACTIVE ARCHIVE,Clothing,197.8,139.28,True
+PROD1502,Quality-Focused Next Generation Focus Group,Clothing,476.67,140.17,False
+PROD1503,mULTI-TIERED DEDICATED CHALLENGE,clothing,184.36,144.31,True
+PROD1504,proactive transitional collaboration, Beauty,360.37,234.21,True
+PROD1505,Phased Uniform Project,Home & Kitchen ,408.52,46.57,True
+PROD1506,re-engineered systematic implementation,Health,151.02,145.26,True
+PROD1507,ROBUST DIDACTIC STRUCTURE,home & kitchen,150.64,248.45,False
+PROD1508,pOLARIZED INTERMEDIATE ADAPTER,automotive,66.55,238.56,True
+PROD1509,OPERATIVE HYBRID SYSTEM ENGINE,Electronics ,155.69,196.39,False
+PROD1510,Focused Discrete Intranet, Health,144.37,75.62,True
+PROD1511,INNOVATIVE GLOBAL PROTOCOL,Health,247.68,197.23,False
+PROD1512,CENTRALIZED NATIONAL ARRAY,books,393.99,247.26,False
+PROD1513,pRE-EMPTIVE NON-VOLATILE HUB,Electronics,166.51,2130.0,True
+PROD1514,Streamlined mobile installation , Sports,494.97,61.57,True
+PROD1515,oPEN-ARCHITECTED BOTTOM-LINE ARRAY,automotive,208.04,118.24,False
+PROD1516,tEAM-ORIENTED EVEN-KEELED MODERATOR, Sports,242.08,170.2,False
+PROD1517,User-centric 4thgeneration utilization ,toys,420.5,20.44,False
+PROD1518,PRE-EMPTIVE ASYNCHRONOUS INSTALLATION,Home & Kitchen,386.29,237.11,False
+PROD1519,Synergized Coherent Customer Loyalty,Electronics ,409.09,87.36,False
+PROD1520,User-Centric Full-Range Artificial Intelligence,Clothing,499.39,129.41,True
+PROD1521,stand-alone intangible open system,clothing,434.88,155.58,False
+PROD1522,Focused Leadingedge Matrices,AUTOMOTIVE,61.77,56.56,False
+PROD1523,phased contextually-based strategy,Books,425.99,,False
+PROD1524,hORIZONTAL UNIFORM FORECAST,clothing,186.66,89.44,True
+PROD1525,Re-engineered multi-state superstructure ,Electronics ,318.37,183.71,False
+PROD1526,customizable interactive portal,CLOTHING,160.55,202.59,False
+PROD1527,TRIPLE-BUFFERED BANDWIDTH-MONITORED LOCAL AREA NETWORK,Electronics,323.16,187.54,True
+PROD1528,Multi-lateral multi-tasking artificial intelligence , Health,60.65,220.56,False
+PROD1529,Integrated Hybrid Moratorium,Clothing ,466.36,6.77,True
+PROD1530,pUBLIC-KEY DIRECTIONAL FUNCTION, Electronics,146.49,61.12,False
+PROD1531,PROFOUND GRID-ENABLED PARADIGM, Toys,62.01,179.43,False
+PROD1532,Total bi-directional moderator ,Sports ,408.13,153.7,False
+PROD1533,MANAGED EXUDING CORE,electronics,384.71,239.71,False
+PROD1534,integrated 6thgeneration productivity,ELECTRONICS,308.4,79.04,False
+PROD1535,synchronized global moratorium,Beauty ,346.98,73.22,True
+PROD1536,reactive web-enabled project,HOME & KITCHEN,421.43,242.73,False
+PROD1537,uSER-CENTRIC CLEAR-THINKING UTILIZATION,ELECTRONICS,216.56,182.38,True
+PROD1538,PHASED SYSTEM-WORTHY PROCESS IMPROVEMENT,TOYS,253.34,163.31,False
+PROD1539,ADAPTIVE NON-VOLATILE THROUGHPUT, Health,47.57,137.51,False
+PROD1540,dISTRIBUTED WELL-MODULATED SUCCESS,beauty,494.8,466.59999999999997,False
+PROD1541,re-contextualized zero-defect data-warehouse,sports,294.88,205.29,True
+PROD1542,automated interactive framework,Sports,29.8,139.78,False
+PROD1543,Implemented Disintermediate Parallelism,GROCERY,15.63,94.09,False
+PROD1544,oRGANIC ZERO ADMINISTRATION PROTOCOL,,292.96,51.35,False
+PROD1545,Switchable Human-Resource Focus Group,BEAUTY,270.11,,True
+PROD1546,Fundamental solution-oriented array ,CLOTHING,231.08,244.22,True
+PROD1547,team-oriented heuristic secured line,electronics,405.35,,True
+PROD1548,FOCUSED ZERO TOLERANCE SUCCESS, Books,50.97,194.98,False
+PROD1549,centralized bottom-line collaboration,Grocery,154.13,192.57,False
+PROD1550,enhanced transitional website,HEALTH,287.52,40.19,True
+PROD1551,DOWN-SIZED DISCRETE DEFINITION,Beauty,234.39,244.93,False
+PROD1552,reactive logistical forecast,Books,131.28,222.81,True
+PROD1553,Streamlined Foreground Installation,AUTOMOTIVE,412.75,170.0,False
+PROD1554,Face-to-face stable interface ,Home & Kitchen ,317.24,163.23,True
+PROD1555,Expanded systemic parallelism ,Home & Kitchen ,381.36,113.99,True
+PROD1556,Enterprise-wide even-keeled toolset ,Automotive,261.13,163.4,True
+PROD1557,SYNERGIZED EXUDING PRODUCT,Grocery,405.67,136.84,True
+PROD1558,Reactive Fresh-Thinking Leverage,BOOKS,91.93,,True
+PROD1559,mULTI-TIERED RECIPROCAL INFO-MEDIARIES,HEALTH,292.09,133.24,True
+PROD1560,Reverse-Engineered Clear-Thinking Interface,HOME & KITCHEN,170.16,194.05,True
+PROD1561,grass-roots local productivity,,235.26,28.82,False
+PROD1562,SELF-ENABLING SYSTEMATIC INTRANET,,438.76,150.25,False
+PROD1563,pOLARIZED BIFURCATED INITIATIVE,home & kitchen,488.27,207.45,True
+PROD1564,polarized background migration, Beauty,107.49,76.04,True
+PROD1565,BUSINESS-FOCUSED SYSTEMATIC CONGLOMERATION,BOOKS,491.31,91.6,True
+PROD1566,INNOVATIVE 6THGENERATION DEFINITION,HOME & KITCHEN,360.49,182.14,False
+PROD1567,Visionary Systematic Approach,toys,59.02,79.95,True
+PROD1568,dOWN-SIZED MULTI-TASKING KNOWLEDGEBASE,Toys,284.22,52.67,False
+PROD1569,devolved foreground task-force,,376.26,41.84,False
+PROD1570,FOCUSED REGIONAL HARDWARE,Grocery ,292.27,165.84,True
+PROD1571,CUSTOMIZABLE RADICAL INITIATIVE,GROCERY,172.05,69.82,False
+PROD1572,Operative multi-tasking contingency ,Electronics ,159.86,123.77,True
+PROD1573,cLONED WELL-MODULATED TIME-FRAME,automotive,109.58,211.23,True
+PROD1574,dIVERSE 24HOUR ALLIANCE,,302.55,211.96,True
+PROD1575,SYNERGIZED BI-DIRECTIONAL SUCCESS,Health,95.62,242.55,True
+PROD1576,TEAM-ORIENTED DIDACTIC WEBSITE,sports,369.97,159.59,False
+PROD1577,De-engineered bifurcated encryption ,Beauty ,352.93,182.28,True
+PROD1578,Synergistic static knowledgebase ,,198.02,218.11,True
+PROD1579,pOLARIZED DYNAMIC TASK-FORCE,Automotive,409.47,184.48,True
+PROD1580,Polarized system-worthy help-desk , Sports,367.69,166.46,True
+PROD1581,face-to-face attitude-oriented neural-net, Beauty,214.29,62.71,True
+PROD1582,Assimilated Real-Time Portal,,369.79,125.92,True
+PROD1583,PROACTIVE BACKGROUND PROCESS IMPROVEMENT,BOOKS,414.39,200.2,False
+PROD1584,Decentralized Empowering Utilization,HEALTH,18.36,66.85,False
+PROD1585,Robust Empowering Task-Force, Beauty,366.8,41.34,False
+PROD1586,Extended Leadingedge Groupware,Health ,149.6,125.97,False
+PROD1587,Managed Executive Standardization,Home & Kitchen,126.0,216.76,False
+PROD1588,Intuitive zero tolerance methodology ,grocery,366.01,,False
+PROD1589,expanded static infrastructure,Health,418.64,35.39,False
+PROD1590,FUNDAMENTAL ANALYZING SUCCESS,Clothing ,65.7,64.51,False
+PROD1591,Customer-focused regional portal ,Toys,116.24,232.42,False
+PROD1592,ROBUST DISCRETE FRAME,sports,98.61,220.38,True
+PROD1593,reactive optimal complexity,BOOKS,263.41,215.47,False
+PROD1594,OPEN-ARCHITECTED VALUE-ADDED INITIATIVE,clothing,309.67,63.53,False
+PROD1595,realigned coherent time-frame,home & kitchen,184.2,154.81,True
+PROD1596,Organized Bifurcated Graphic Interface,TOYS,217.6,114.83,False
+PROD1597,Optional Tangible Artificial Intelligence,beauty,44.16,171.22,False
+PROD1598,cONFIGURABLE INTERMEDIATE DEFINITION, Books,85.96,200.83,False
+PROD1599,MULTI-LAYERED BI-DIRECTIONAL HELP-DESK,Toys,205.16,82.37,False
+PROD1600,Switchable empowering process improvement , Automotive,478.52,,True
+PROD1601,Pre-emptive motivating structure , Toys,318.08,32.26,False
+PROD1602,rIGHT-SIZED RADICAL WEBSITE,HEALTH,369.15,,False
+PROD1603,distributed tertiary paradigm,clothing,271.44,177.21,True
+PROD1604,Realigned Composite Framework,clothing,229.99,233.39,False
+PROD1605,CROSS-GROUP NEEDS-BASED ATTITUDE,sports,88.9,,False
+PROD1606,cross-platform intangible hub,Electronics ,211.95,95.87,False
+PROD1607,Balanced Systemic Knowledge User,grocery,111.01,134.03,False
+PROD1608,PRE-EMPTIVE CONTENT-BASED INTERFACE,Toys ,352.87,134.18,False
+PROD1609,Synergistic Demand-Driven Access,,192.6,26.45,True
+PROD1610,User-Friendly Upward-Trending Database,grocery,131.74,126.44,True
+PROD1611,PROFOUND FOREGROUND ALLIANCE,CLOTHING,13.62,,False
+PROD1612,eXCLUSIVE CLIENT-SERVER SECURED LINE,GROCERY,499.19,82.32,True
+PROD1613,sEAMLESS HEURISTIC SOLUTION,,54.84,240.45,True
+PROD1614,Down-Sized Upward-Trending Knowledgebase,HOME & KITCHEN,99.03,50.56,False
+PROD1615,sELF-ENABLING FULL-RANGE FOCUS GROUP,Home & Kitchen,138.36,,False
+PROD1616,NETWORKED CLEAR-THINKING STRATEGY,books,380.87,52.13,True
+PROD1617,Stand-alone leadingedge firmware ,Toys,497.82,144.43,True
+PROD1618,eXCLUSIVE DYNAMIC ARCHITECTURE,TOYS,27.42,216.14,False
+PROD1619,open-architected explicit neural-net,Health,329.67,193.78,False
+PROD1620,Universal attitude-oriented parallelism ,toys,206.04,205.04,True
+PROD1621,Programmable Background Neural-Net, Toys,484.89,41.14,True
+PROD1622,extended object-oriented flexibility,Automotive,473.28,191.96,False
+PROD1623,uP-SIZED SYSTEMIC CORE, Toys,282.02,34.5,True
+PROD1624,Compatible fresh-thinking success ,Grocery,357.93,90.38,True
+PROD1625,PHASED FAULT-TOLERANT STRUCTURE,toys,83.91,32.95,False
+PROD1626,cross-group clear-thinking knowledge user, Grocery,214.88,241.45,False
+PROD1627,MULTI-LAYERED 3RDGENERATION CORE,beauty,475.83,74.82,True
+PROD1628,Extended Cohesive Encryption,SPORTS,423.88,70.3,True
+PROD1629,Integrated System-Worthy Capacity,health,41.2,233.8,True
+PROD1630,sharable heuristic support,Toys,352.88,208.84,True
+PROD1631,Profit-focused responsive capacity ,Toys ,411.59,116.22,True
+PROD1632,Mandatory Client-Driven Middleware,BEAUTY,205.72,70.48,True
+PROD1633,Multi-channeled zero administration secured line , Clothing,237.04,76.35,True
+PROD1634,PROFOUND REAL-TIME LOCAL AREA NETWORK,TOYS,76.17,53.97,False
+PROD1635,cONFIGURABLE SECONDARY CONGLOMERATION,home & kitchen,52.13,147.5,
+PROD1636,re-engineered non-volatile focus group, Clothing,471.69,31.55,False
+PROD1637,OBJECT-BASED EMPOWERING EXTRANET,Beauty,318.29,33.46,True
+PROD1638,aDVANCED WEB-ENABLED lOCAL aREA nETWORK, Automotive,476.78,44.44,False
+PROD1639,Programmable scalable challenge , Home & Kitchen,228.68,23.33,False
+PROD1640,Right-Sized Value-Added Neural-Net,health,67.64,172.87,False
+PROD1641,Implemented Asynchronous Extranet, Health,309.66,12.22,True
+PROD1642,Innovative fresh-thinking implementation ,Clothing,190.4,31.57,True
+PROD1643,Switchable Incremental Frame, Toys,149.88,165.66,True
+PROD1644,Integrated National Project,home & kitchen,437.92,218.64,False
+PROD1645,Streamlined exuding customer loyalty ,SPORTS,301.28,62.81,True
+PROD1646,Profit-Focused 4Thgeneration Database,Electronics ,108.34,227.4,True
+PROD1647,PROGRESSIVE ATTITUDE-ORIENTED TASK-FORCE,AUTOMOTIVE,193.63,55.79,False
+PROD1648,advanced leadingedge encryption,CLOTHING,284.83,195.65,True
+PROD1649,persevering full-range open architecture,BOOKS,207.12,193.38,True
+PROD1650,re-engineered disintermediate database,Books,368.42,115.51,True
+PROD1651,dECENTRALIZED LEADINGEDGE KNOWLEDGEBASE,,203.92,10.97,False
+PROD1652,sYNERGIZED MULTIMEDIA INITIATIVE,CLOTHING,495.1,147.71,False
+PROD1653,rOBUST SYSTEM-WORTHY PROCESS IMPROVEMENT, Toys,497.04,72.97,True
+PROD1654,PERSISTENT EXPLICIT SERVICE-DESK,BOOKS,435.34,166.26,False
+PROD1655,function-based 5thgeneration success, Grocery,426.76,127.44,False
+PROD1656,OBJECT-BASED NON-VOLATILE DEFINITION,Home & Kitchen ,424.56,78.07,True
+PROD1657,Organic bottom-line software ,automotive,48.09,107.2,False
+PROD1658,RE-ENGINEERED DEMAND-DRIVEN MODERATOR,sports,477.3,121.83,True
+PROD1659,fUNCTION-BASED WEB-ENABLED CONCEPT,Toys ,53.81,57.11,True
+PROD1660,mONITORED CLEAR-THINKING ALGORITHM, Sports,286.33,126.2,False
+PROD1661,rEALIGNED SOLUTION-ORIENTED PORTAL,clothing,339.79,240.71,True
+PROD1662,grass-roots mission-critical challenge,Home & Kitchen,122.46,188.55,True
+PROD1663,User-Centric Client-Server Protocol,BOOKS,152.39,,True
+PROD1664,proactive coherent array,HEALTH,352.46,4.87,False
+PROD1665,eNHANCED DEMAND-DRIVEN MIGRATION,Beauty,106.02,144.0,True
+PROD1666,Digitized full-range architecture , Beauty,354.69,77.49,True
+PROD1667,realigned foreground utilization,Toys,233.38,178.16,True
+PROD1668,Function-Based Systematic Throughput,beauty,445.89,140.3,False
+PROD1669,Quality-Focused Didactic Alliance,HOME & KITCHEN,231.68,197.41,True
+PROD1670,Multi-Layered Neutral Orchestration, Beauty,377.82,42.31,True
+PROD1671,Ergonomic Static Secured Line,health,236.11,,True
+PROD1672,RE-ENGINEERED FULL-RANGE CAPABILITY,Clothing ,306.5,123.45,True
+PROD1673,Customizable analyzing process improvement , Books,57.43,41.9,True
+PROD1674,OPEN-SOURCE TRANSITIONAL OPEN ARCHITECTURE,AUTOMOTIVE,40.73,168.08,True
+PROD1675,mULTI-LATERAL BI-DIRECTIONAL COLLABORATION,Home & Kitchen ,472.01,211.13,True
+PROD1676,pROACTIVE COHESIVE IMPLEMENTATION, Electronics,489.56,209.6,False
+PROD1677,dEVOLVED BANDWIDTH-MONITORED PROJECT,sports,485.76,117.84,False
+PROD1678,Cloned Regional Capability,Automotive,372.92,182.42,False
+PROD1679,future-proofed optimizing projection,AUTOMOTIVE,256.49,197.89,False
+PROD1680,VISION-ORIENTED CLEAR-THINKING TASK-FORCE,BOOKS,75.36,56.42,False
+PROD1681,SYNCHRONIZED TRANSITIONAL MATRIX,electronics,20.52,247.51,False
+PROD1682,Reverse-engineered multi-state function ,Health ,409.53,53.15,True
+PROD1683,synchronized zero tolerance forecast,automotive,127.76,34.2,True
+PROD1684,GRASS-ROOTS ENCOMPASSING TASK-FORCE,Grocery,162.22,200.5,True
+PROD1685,iNVERSE NEUTRAL FIRMWARE, Electronics,348.0,223.81,True
+PROD1686,fundamental systemic strategy,BOOKS,121.05,113.8,False
+PROD1687,Cross-Platform Transitional Forecast,health,490.67,145.15,True
+PROD1688,Re-Contextualized Even-Keeled Software, Health,24.35,19.31,False
+PROD1689,vision-oriented responsive application,Books,13.61,110.16,True
+PROD1690,sECURED GLOBAL LEVERAGE,toys,422.74,1700.6999999999998,True
+PROD1691,INNOVATIVE 24/7 CAPACITY,,447.22,222.43,False
+PROD1692,CUSTOMER-FOCUSED ZERO TOLERANCE PROJECT,Grocery ,494.03,84.53,False
+PROD1693,Ergonomic bandwidth-monitored project ,Sports,7.42,135.59,True
+PROD1694,Re-Engineered Regional Infrastructure,HOME & KITCHEN,149.87,18.87,True
+PROD1695,secured non-volatile capability,Electronics,275.55,42.03,False
+PROD1696,Horizontal 24/7 Instruction Set,Automotive,411.36,35.59,False
+PROD1697,mULTI-TIERED INTERMEDIATE gRAPHIC iNTERFACE,beauty,490.01,163.02,False
+PROD1698,Cross-Platform Grid-Enabled Neural-Net,Books,479.19,152.23,True
+PROD1699,Digitized Attitude-Oriented Framework,Health ,387.19,88.32,False
+PROD1700,networked 4thgeneration access, Clothing,366.13,138.11,True
+PROD1701,mandatory didactic challenge, Health,499.82,187.04,False
+PROD1702,dOWN-SIZED COMPOSITE ARTIFICIAL INTELLIGENCE,CLOTHING,486.21,160.11,False
+PROD1703,polarized disintermediate matrix,health,162.66,3.66,True
+PROD1704,Phased Coherent Orchestration,Books,185.9,43.17,False
+PROD1705,realigned mission-critical intranet,Grocery,460.09,161.6,False
+PROD1706,Synchronized Real-Time Installation,Home & Kitchen ,52.34,233.82,True
+PROD1707,Digitized 4thgeneration infrastructure ,Grocery ,86.35,224.93,True
+PROD1708,rE-CONTEXTUALIZED ACTUATING OPEN ARCHITECTURE,Health,414.57,540.6,True
+PROD1709,mandatory analyzing moderator,Clothing ,440.41,56.29,False
+PROD1710,Synergistic Analyzing Hierarchy,Grocery,342.61,47.65,Fal...
+PROD1711,Horizontal heuristic Graphic Interface ,Books,369.95,130.17,False
+PROD1712,dOWN-SIZED ECO-CENTRIC INITIATIVE,Beauty,93.66,188.81,True
+PROD1713,Total explicit complexity , Electronics,18.57,204.66,False
+PROD1714,Integrated solution-oriented access ,AUTOMOTIVE,326.58,248.85,True
+PROD1715,Advanced responsive firmware ,Books,206.99,137.22,False
+PROD1716,user-centric bandwidth-monitored installation,Health ,98.27,4.39,True
+PROD1717,virtual interactive matrices,,207.32,38.51,False
+PROD1718,customizable uniform focus group,TOYS,161.78,161.36,False
+PROD1719,Public-Key Incremental Circuit,grocery,492.74,180.92,False
+PROD1720,implemented zero-defect core, Beauty,338.58,171.97,False
+PROD1721,Polarized Human-Resource Analyzer, Beauty,95.8,182.76,True
+PROD1722,ASSIMILATED BI-DIRECTIONAL EMULATION,Electronics ,235.35,227.52,False
+PROD1723,cross-platform background structure,BEAUTY,337.56,147.38,True
+PROD1724,ergonomic motivating initiative,ELECTRONICS,409.35,164.03,True
+PROD1725,vIRTUAL GLOBAL SYSTEM ENGINE,Sports,365.47,209.94,True
+PROD1726,sYNCHRONIZED UNIFORM CONTINGENCY,grocery,134.45,111.51,False
+PROD1727,Progressive Actuating Moratorium,clothing,372.26,103.65,False
+PROD1728,rEDUCED MOBILE ABILITY,BEAUTY,297.19,95.56,True
+PROD1729,Persevering executive Internet solution ,CLOTHING,348.74,,False
+PROD1730,MANDATORY INTANGIBLE THROUGHPUT, Clothing,76.6,,False
+PROD1731,public-key upward-trending forecast,Toys ,219.63,233.38,True
+PROD1732,visionary user-facing website,sports,239.17,73.3,True
+PROD1733,Re-engineered optimal contingency ,HOME & KITCHEN,124.47,88.47,False
+PROD1734,Customer-Focused Responsive Process Improvement,Automotive,55.75,245.37,False
+PROD1735,mULTI-LAYERED 4THGENERATION UTILIZATION,Grocery ,6.97,225.39,False
+PROD1736,DOWN-SIZED COHESIVE MODERATOR,beauty,157.29,208.81,True
+PROD1737,secured demand-driven conglomeration,SPORTS,328.03,246.43,True
+PROD1738,mULTI-LATERAL 24/7 PRODUCTIVITY, Sports,45.87,131.17,True
+PROD1739,OBJECT-BASED 6THGENERATION THROUGHPUT,Home & Kitchen ,186.66,93.73,False
+PROD1740,Persevering Composite Knowledgebase,Clothing,259.49,29.8,True
+PROD1741,Seamless dynamic intranet ,AUTOMOTIVE,109.19,183.57,True
+PROD1742,dE-ENGINEERED FOREGROUND COMPLEXITY,SPORTS,496.51,99.45,True
+PROD1743,sTREAMLINED RESPONSIVE EMULATION,,429.79,143.68,True
+PROD1744,Business-Focused 24/7 Focus Group,automotive,265.89,44.42,False
+PROD1745,public-key grid-enabled projection,Home & Kitchen,432.69,61.66,True
+PROD1746,grass-roots context-sensitive groupware,Toys,353.85,127.84,False
+PROD1747,profound 3rdgeneration system engine,Books,170.28,183.51,False
+PROD1748,MULTI-LATERAL BANDWIDTH-MONITORED DEFINITION,GROCERY,311.25,86.34,False
+PROD1749,re-engineered contextually-based collaboration,clothing,102.5,238.0,False
+PROD1750,INVERSE SOLUTION-ORIENTED INTRANET, Toys,293.44,193.68,False
+PROD1751,INVERSE ZERO ADMINISTRATION UTILIZATION,TOYS,53.87,54.25,True
+PROD1752,Visionary Client-Server Attitude,Beauty ,210.67,169.93,True
+PROD1753,IMPLEMENTED TRANSITIONAL DEFINITION,sports,306.54,144.26,True
+PROD1754,progressive high-level extranet, Beauty,190.85,98.63,False
+PROD1755,front-line asymmetric capacity,,73.46,89.71,False
+PROD1756,Cross-Platform Content-Based Portal,Toys,62.57,,True
+PROD1757,reduced analyzing solution, Health,155.99,98.96,False
+PROD1758,POLARIZED DEDICATED PROCESS IMPROVEMENT,HEALTH,487.58,187.4,False
+PROD1759,optional multi-state ability,automotive,453.5,89.55,False
+PROD1760,profit-focused homogeneous graphical user interface,Beauty,449.32,140.63,False
+PROD1761,Configurable methodical hub ,Books,350.95,59.91,False
+PROD1762,oPTIMIZED 6THGENERATION STRUCTURE,ELECTRONICS,470.63,,True
+PROD1763,stand-alone scalable protocol,CLOTHING,114.75,131.21,True
+PROD1764,Stand-alone hybrid throughput , Toys,404.79,42.25,False
+PROD1765,Operative Systemic Complexity,Toys ,356.95,203.45,False
+PROD1766,Compatible Neutral Structure,sports,499.91,196.38,False
+PROD1767,face-to-face multi-tasking alliance,Books,281.55,193.94,True
+PROD1768,Switchable Discrete Benchmark, Books,145.69,148.38,True
+PROD1769,SEAMLESS SCALABLE GRAPHIC INTERFACE, Grocery,5.83,7.05,False
+PROD1770,INTEGRATED BIFURCATED FUNCTIONALITIES,Toys ,457.04,96.87,False
+PROD1771,front-line local interface,beauty,461.54,181.05,True
+PROD1772,SECURED MISSION-CRITICAL FUNCTION,Beauty ,407.42,200.64,False
+PROD1773,Self-Enabling Context-Sensitive Standardization, Toys,241.67,42.31,True
+PROD1774,sELF-ENABLING CLIENT-DRIVEN gRAPHIC iNTERFACE,beauty,130.49,77.11,True
+PROD1775,inverse object-oriented encoding,ELECTRONICS,259.98,,False
+PROD1776,Intuitive zero-defect Local Area Network ,CLOTHING,43.21,215.69,text_False
+PROD1777,focused neutral budgetary management,home & kitchen,87.7,13.64,True
+PROD1778,oPTIONAL HOLISTIC KNOWLEDGEBASE,Home & Kitchen,105.69,239.32,text_False
+PROD1779,vIRTUAL WELL-MODULATED FRAME, Home & Kitchen,74.09,223.64,False
+PROD1780,pUBLIC-KEY UNIFORM PROTOCOL,Clothing,321.08,57.14,False
+PROD1781,Synergized holistic parallelism ,HEALTH,133.9,45.87,True
+PROD1782,Balanced Systemic Budgetary Management,Grocery ,183.36,,True
+PROD1783,horizontal optimizing analyzer,grocery,249.37,208.45,text_False
+PROD1784,rOBUST OPTIMAL MONITORING,TOYS,231.61,,True
+PROD1785,Robust Bi-Directional Capacity,Grocery,227.8,87.43,False
+PROD1786,Optional empowering standardization ,clothing,476.18,65.12,True
+PROD1787,bUSINESS-FOCUSED OPTIMIZING APPROACH, Books,264.48,178.9,True
+PROD1788,Centralized discrete hierarchy ,CLOTHING,370.0,94.55,True
+PROD1789,Multi-Lateral Static Neural-Net, Home & Kitchen,462.78,231.71,text_False
+PROD1790,Re-contextualized intermediate emulation , Electronics,173.73,171.94,False
+PROD1791,MULTI-CHANNELED WELL-MODULATED DEFINITION,beauty,200.72,142.97,False
+PROD1792,Reactive exuding process improvement ,Health,493.95,4.14,True
+PROD1793,Mandatory neutral workforce ,Books ,318.37,246.69,True
+PROD1794,tEAM-ORIENTED MOBILE DEFINITION,ELECTRONICS,254.37,63.41,False
+PROD1795,Self-enabling local system engine ,grocery,354.08,131.11,True
+PROD1796,Proactive Object-Oriented Success,health,459.38,74.29,False
+PROD1797,FUNCTION-BASED FOREGROUND FRAMEWORK,Grocery ,277.59,8.31,False
+PROD1798,user-friendly bifurcated encoding,Health ,360.55,52.74,False
+PROD1799,Profit-Focused Upward-Trending Protocol, Books,466.67,228.56,False
+PROD1800,Integrated User-Facing Definition,ELECTRONICS,484.81,87.85,True
+PROD1801,Quality-Focused Client-Driven Challenge,,89.69,36.38,True
+PROD1802,Customizable Well-Modulated Core,Home & Kitchen ,172.08,21.1,True
+PROD1803,multi-tiered intangible collaboration, Home & Kitchen,498.07,115.0,False
+PROD1804,profound stable initiative,Home & Kitchen ,421.78,45.1,False
+PROD1805,Synchronized responsive collaboration , Electronics,458.6,120.39,Fal...
+PROD1806,mONITORED MAXIMIZED IMPLEMENTATION,HOME & KITCHEN,403.6,81.16,True
+PROD1807,mULTI-LATERAL SYSTEM-WORTHY CIRCUIT, Toys,375.99,22.19,False
+PROD1808,tRIPLE-BUFFERED SYSTEM-WORTHY OPEN SYSTEM,CLOTHING,116.52,82.62,False
+PROD1809,exclusive 4thgeneration parallelism,Automotive,315.95,141.15,False
+PROD1810,sECURED 24HOUR INTRANET,sports,389.3,197.4,True
+PROD1811,Open-Source Non-Volatile Array,sports,427.16,2.88,False
+PROD1812,Up-sized analyzing array ,Health,90.72,103.7,True
+PROD1813,Synergized Multi-Tasking Leverage,automotive,367.68,42.33,True
+PROD1814,organized next generation emulation,Electronics ,51.69,141.96,True
+PROD1815,Function-based national neural-net ,Sports,446.44,25.28,False
+PROD1816,persevering client-driven emulation,grocery,143.19,96.1,False
+PROD1817,EXTENDED SCALABLE CUSTOMER LOYALTY,books,179.62,1623.1,True
+PROD1818,Phased leadingedge hardware ,GROCERY,27.78,121.68,True
+PROD1819,De-engineered exuding forecast ,HOME & KITCHEN,318.06,50.62,True
+PROD1820,Upgradable object-oriented complexity ,Grocery,8.15,108.4,True
+PROD1821,rE-ENGINEERED METHODICAL SUPERSTRUCTURE,home & kitchen,112.74,17.01,False
+PROD1822,OPERATIVE WEB-ENABLED ALGORITHM,SPORTS,9.3,173.04,True
+PROD1823,oPTIMIZED 5THGENERATION SOFTWARE,sports,368.67,196.94,True
+PROD1824,sELF-ENABLING MODULAR CAPACITY, Automotive,446.27,3.31,False
+PROD1825,dIVERSE BANDWIDTH-MONITORED KNOWLEDGEBASE,toys,396.85,185.16,False
+PROD1826,horizontal system-worthy challenge, Electronics,326.9,84.66,False
+PROD1827,intuitive optimal parallelism,Electronics,478.25,38.21,True
+PROD1828,Inverse Maximized Superstructure,electronics,4030.4,99.99,False
+PROD1829,visionary uniform hardware, Health,461.05,105.41,True
+PROD1830,Re-contextualized 6thgeneration model , Automotive,52.68,110.83,True
+PROD1831,FACE-TO-FACE HIGH-LEVEL ADAPTER, Automotive,137.3,111.48,False
+PROD1832,Organized optimizing strategy ,BOOKS,157.14,149.58,False
+PROD1833,IMPLEMENTED FRESH-THINKING ARCHIVE,Beauty ,470.38,17.95,False
+PROD1834,FULLY-CONFIGURABLE ZERO-DEFECT CUSTOMER LOYALTY, Toys,300.8,69.27,True
+PROD1835,Robust Impactful Functionalities,Health ,225.64,232.96,False
+PROD1836,Implemented Full-Range Focus Group,sports,85.73,11.17,True
+PROD1837,SECURED ANALYZING MIDDLEWARE,home & kitchen,249.63,,False
+PROD1838,pROGRAMMABLE EXPLICIT MIDDLEWARE,BEAUTY,488.53,75.41,True
+PROD1839,Fundamental coherent emulation ,HEALTH,117.24,139.45,False
+PROD1840,exclusive asynchronous task-force,Beauty ,175.36,4.15,True
+PROD1841,Balanced Impactful Throughput,HEALTH,173.89,62.83,False
+PROD1842,Sharable system-worthy access ,Electronics,28.05,201.9,False
+PROD1843,uP-SIZED TERTIARY SOLUTION,clothing,103.15,209.03,True
+PROD1844,aUTOMATED 24HOUR ABILITY,,348.44,119.07,True
+PROD1845,CENTRALIZED COMPOSITE BENCHMARK,Clothing,139.38,226.04,False
+PROD1846,Integrated Even-Keeled Extranet,BOOKS,234.06,57.94,True
+PROD1847,Secured User-Facing Website, Beauty,429.41,19.28,True
+PROD1848,Open-source zero administration implementation ,Beauty,400.5,237.88,True
+PROD1849,CROSS-GROUP BANDWIDTH-MONITORED PROJECTION,BOOKS,414.25,145.95,True
+PROD1850,ASSIMILATED SYSTEMATIC CONTINGENCY,Electronics,389.87,130.37,False
+PROD1851,Customizable Disintermediate Encryption,Clothing,217.04,80.67,False
+PROD1852,AUTOMATED FULL-RANGE ENCRYPTION, Home & Kitchen,308.41,72.73,False
+PROD1853,uSER-CENTRIC STABLE ARCHITECTURE,Beauty,102.07,37.38,True
+PROD1854,Expanded Leadingedge Capacity,Books,424.58,155.89,True
+PROD1855,Diverse Hybrid Contingency,TOYS,42.05,13.52,False
+PROD1856,oPTIONAL CLIENT-SERVER FRAMEWORK, Books,474.4,1751.6999999999998,Fal...
+PROD1857,eNHANCED INCREMENTAL KNOWLEDGEBASE,Sports,415.27,,False
+PROD1858,Monitored 5Thgeneration Process Improvement,Toys,106.15,99.64,True
+PROD1859,DECENTRALIZED FOREGROUND GROUPWARE,Sports,381.84,210.96,True
+PROD1860,adaptive bifurcated access,sports,166.85,139.89,False
+PROD1861,sTAND-ALONE NEUTRAL EMULATION,Health,353.75,145.17,False
+PROD1862,aUTOMATED CLIENT-SERVER OPEN SYSTEM,Books ,85.3,16.36,True
+PROD1863,Mandatory Holistic Migration,automotive,430.24,163.33,False
+PROD1864,Persistent modular utilization ,electronics,334.41,69.77,False
+PROD1865,SYNERGIZED BI-DIRECTIONAL CONGLOMERATION,,141.81,109.91,False
+PROD1866,fRONT-LINE USER-FACING FUNCTION, Automotive,444.61,43.12,False
+PROD1867,Digitized Local Productivity,Beauty ,292.3,,True
+PROD1868,business-focused value-added challenge, Sports,377.68,82.98,False
+PROD1869,User-Friendly 5Thgeneration Approach,Toys ,494.3,144.86,False
+PROD1870,PROACTIVE MULTIMEDIA STANDARDIZATION,TOYS,226.82,163.22,True
+PROD1871,automated object-oriented data-warehouse,Electronics,126.22,144.56,False
+PROD1872,Synergistic human-resource functionalities ,Books ,417.65,25.26,False
+PROD1873,open-architected bandwidth-monitored architecture,CLOTHING,93.35,148.18,True
+PROD1874,Streamlined Intangible Info-Mediaries,toys,122.86,239.25,False
+PROD1875,Extended Directional Approach, Grocery,221.19,223.59,False
+PROD1876,gRASS-ROOTS TRANSITIONAL NEURAL-NET,home & kitchen,440.95,118.17,True
+PROD1877,reverse-engineered heuristic architecture,home & kitchen,173.29,198.11,True
+PROD1878,Monitored responsive circuit ,CLOTHING,431.29,116.27,False
+PROD1879,centralized 3rdgeneration capacity,Clothing,340.06,49.62,False
+PROD1880,configurable tangible graphical user interface,,197.43,,False
+PROD1881,Multi-Tiered Object-Oriented Capacity,toys,150.68,73.61,False
+PROD1882,Synergistic executive strategy ,BEAUTY,160.36,34.93,True
+PROD1883,Object-Based Fault-Tolerant Synergy,automotive,107.07,74.07,
+PROD1884,mANAGED MOBILE CHALLENGE,home & kitchen,202.96,89.74,True
+PROD1885,Reactive Tertiary Productivity,Electronics ,372.63,60.75,False
+PROD1886,FUNCTION-BASED BACKGROUND APPLICATION,beauty,167.4,226.34,False
+PROD1887,User-Friendly Eco-Centric Solution,beauty,95.88,80.65,False
+PROD1888,Multi-layered multi-tasking circuit ,Beauty,177.41,196.37,False
+PROD1889,sharable background adapter, Books,201.13,248.53,False
+PROD1890,operative impactful methodology,HOME & KITCHEN,469.99,108.12,False
+PROD1891,organic intangible capability,CLOTHING,312.11,113.46,False
+PROD1892,POLARIZED LOCAL SOLUTION, Sports,427.07,49.56,False
+PROD1893,Extended optimal function ,GROCERY,187.58,190.15,False
+PROD1894,Versatile National Knowledgebase,,494.4,95.43,True
+PROD1895,rE-CONTEXTUALIZED HOLISTIC ARCHITECTURE, Beauty,112.86,181.74,False
+PROD1896,vISION-ORIENTED LEADINGEDGE PRODUCTIVITY, Beauty,187.07,17.76,text_True
+PROD1897,FULLY-CONFIGURABLE DISCRETE PROTOCOL, Electronics,144.21,159.73,False
+PROD1898,Total Client-Server Benchmark,Home & Kitchen,411.05,54.16,False
+PROD1899,Horizontal clear-thinking system engine ,Sports ,179.17,100.01,True
+PROD1900,sHARABLE HIGH-LEVEL METHODOLOGY,Health,428.29,132.26,False
+PROD1901,pUBLIC-KEY INTANGIBLE HELP-DESK,TOYS,226.17,202.69,False
+PROD1902,sYNCHRONIZED 24HOUR ALGORITHM,Beauty ,187.35,216.91,False
+PROD1903,Re-Engineered System-Worthy Knowledge User,Electronics,225.63,220.26,False
+PROD1904,aSSIMILATED HEURISTIC ENCODING, Beauty,321.54,198.68,True
+PROD1905,MONITORED SOLUTION-ORIENTED POLICY,,74.79,143.09,True
+PROD1906,profound upward-trending concept,books,124.59,59.29,False
+PROD1907,Decentralized Local Productivity, Sports,86.54,5.86,False
+PROD1908,User-centric foreground interface , Electronics,216.45,136.7,False
+PROD1909,Sharable human-resource customer loyalty ,,89.18,223.38,True
+PROD1910,intuitive uniform success,Home & Kitchen,233.56,185.2,True
+PROD1911,vision-oriented multi-state forecast,Home & Kitchen ,277.82,245.62,False
+PROD1912,Grass-Roots Mobile Hardware,GROCERY,205.05,88.7,False
+PROD1913,Persevering Human-Resource Monitoring,GROCERY,15.83,105.6,False
+PROD1914,FUNCTION-BASED HOLISTIC FUNCTIONALITIES,Toys ,175.81,170.35,True
+PROD1915,Proactive Non-Volatile Hub,Health,224.44,203.03,False
+PROD1916,fRONT-LINE EVEN-KEELED lOCAL aREA nETWORK,health,127.31,177.56,False
+PROD1917,iNVERSE CLIENT-DRIVEN ABILITY,Books ,401.46,116.58,True
+PROD1918,Re-contextualized context-sensitive data-warehouse ,HEALTH,394.66,135.89,True
+PROD1919,vISIONARY BIFURCATED APPROACH,home & kitchen,104.05,77.44,False
+PROD1920,Progressive neutral circuit ,grocery,203.09,159.97,False
+PROD1921,optional 5thgeneration artificial intelligence,grocery,47.01,46.93,True
+PROD1922,Streamlined high-level infrastructure ,SPORTS,399.05,209.8,False
+PROD1923,Future-proofed mobile extranet , Sports,283.1,179.22,False
+PROD1924,fundamental holistic architecture,grocery,484.79,150.36,True
+PROD1925,Down-Sized Disintermediate Installation,Health ,266.51,80.52,True
+PROD1926,profound high-level capacity, Grocery,275.16,46.53,False
+PROD1927,Innovative asymmetric protocol ,Electronics ,208.54,37.64,True
+PROD1928,ADAPTIVE ZERO-DEFECT GRAPHICAL USER INTERFACE,CLOTHING,394.99,171.4,False
+PROD1929,Exclusive 3Rdgeneration Capability, Electronics,179.87,156.84,True
+PROD1930,Automated user-facing Internet solution ,Sports ,6.77,18.97,True
+PROD1931,de-engineered demand-driven challenge,BEAUTY,275.44,111.16,True
+PROD1932,fUTURE-PROOFED SYSTEM-WORTHY CONTINGENCY,Home & Kitchen,180.69,81.27,False
+PROD1933,user-friendly needs-based infrastructure,GROCERY,34.11,67.68,False
+PROD1934,Re-Engineered Dedicated Core,BEAUTY,181.44,16.88,text_False
+PROD1935,self-enabling dedicated encoding,TOYS,468.77,,True
+PROD1936,User-friendly static productivity , Toys,397.17,237.93,True
+PROD1937,VISIONARY DISCRETE CORE,BOOKS,52.76,29.76,False
+PROD1938,Implemented zero administration solution ,ELECTRONICS,232.94,166.47,False
+PROD1939,balanced system-worthy archive,BEAUTY,64.13,206.65,False
+PROD1940,MULTI-LATERAL NATIONAL CIRCUIT,Home & Kitchen ,100.51,89.72,True
+PROD1941,DE-ENGINEERED DEDICATED THROUGHPUT,Books,306.41,241.53,False
+PROD1942,pRE-EMPTIVE EXPLICIT ACCESS,sports,9.82,39.64,False
+PROD1943,Triple-buffered bifurcated focus group , Clothing,317.02,70.68,False
+PROD1944,vISION-ORIENTED ASYNCHRONOUS MATRICES,toys,107.87,85.92,True
+PROD1945,sWITCHABLE SYSTEMIC BENCHMARK,CLOTHING,459.98,90.9,True
+PROD1946,Re-Contextualized Zero Tolerance Ability,SPORTS,21.99,224.74,True
+PROD1947,Fundamental Maximized Methodology,Books ,7.9,2.29,False
+PROD1948,rIGHT-SIZED VALUE-ADDED INTERFACE,automotive,286.34,27.32,False
+PROD1949,User-friendly modular parallelism ,Electronics,54.23,71.12,False
+PROD1950,uP-SIZED NATIONAL SYSTEM ENGINE,AUTOMOTIVE,195.73,14.31,True
+PROD1951,User-centric global service-desk ,Home & Kitchen ,279.83,150.19,True
+PROD1952,oRGANIZED MAXIMIZED PRICING STRUCTURE,automotive,286.16,16.0,True
+PROD1953,integrated real-time architecture,toys,277.6,72.94,True
+PROD1954,intuitive 3rdgeneration projection, Home & Kitchen,173.7,167.3,True
+PROD1955,CONFIGURABLE DEDICATED HARDWARE,electronics,382.53,111.49,False
+PROD1956,vISION-ORIENTED SCALABLE gRAPHICAL uSER iNTERFACE, Electronics,245.91,63.95,True
+PROD1957,DEVOLVED WELL-MODULATED INTERNET SOLUTION,BEAUTY,428.45,204.95,True
+PROD1958,Extended regional matrices ,electronics,49.95,70.0,False
+PROD1959,FUNCTION-BASED MOTIVATING SOFTWARE,home & kitchen,128.82,53.87,False
+PROD1960,FACE-TO-FACE REGIONAL SYSTEM ENGINE, Health,35.23,176.96,False
+PROD1961,aMELIORATED 3RDGENERATION FORECAST,Toys,147.17,206.12,True
+PROD1962,Sharable intermediate attitude ,ELECTRONICS,445.06,62.81,True
+PROD1963,Front-Line Holistic Encryption,AUTOMOTIVE,456.31,39.6,True
+PROD1964,Intuitive Tangible Firmware,HEALTH,415.56,,False
+PROD1965,EXTENDED ECO-CENTRIC BUDGETARY MANAGEMENT,Health,204.44,,False
+PROD1966,Expanded zero administration toolset ,Books,356.61,222.97,False
+PROD1967,streamlined 6thgeneration initiative, Health,441.75,74.47,False
+PROD1968,uSER-FRIENDLY ASYMMETRIC CUSTOMER LOYALTY,Automotive,488.56,176.85,True
+PROD1969,Vision-oriented human-resource benchmark , Automotive,138.33,240.43,True
+PROD1970,bUSINESS-FOCUSED RESPONSIVE INFO-MEDIARIES,grocery,378.82,,False
+PROD1971,DOWN-SIZED CLIENT-SERVER DATABASE,grocery,62.44,59.13,False
+PROD1972,Optional transitional intranet , Clothing,62.5,124.13,True
+PROD1973,fUTURE-PROOFED ZERO TOLERANCE ARCHIVE,Electronics,460.15,200.35,True
+PROD1974,ASSIMILATED DIRECTIONAL INFRASTRUCTURE,toys,338.36,161.33,True
+PROD1975,NETWORKED GRID-ENABLED GRAPHIC INTERFACE,Grocery,486.56,137.35,True
+PROD1976,Public-Key Coherent Forecast,beauty,346.78,,True
+PROD1977,organic mission-critical ability,,179.39,178.56,True
+PROD1978,Balanced modular firmware ,CLOTHING,354.66,206.03,True
+PROD1979,Public-key hybrid implementation , Beauty,396.28,51.83,True
+PROD1980,pROFIT-FOCUSED NEEDS-BASED MODEL, Health,25.43,154.35,True
+PROD1981,Triple-Buffered Local Contingency,ELECTRONICS,414.51,67.22,True
+PROD1982,AUTOMATED CLIENT-SERVER ALGORITHM,Beauty ,230.15,11.84,True
+PROD1983,De-Engineered Impactful Time-Frame,TOYS,136.15,184.69,False
+PROD1984,Integrated Interactive Knowledge User,Home & Kitchen ,248.7,157.22,False
+PROD1985,CENTRALIZED OPTIMAL THROUGHPUT,toys,10.71,190.7,False
+PROD1986,Enterprise-wide upward-trending time-frame , Grocery,119.87,55.86,True
+PROD1987,MANDATORY INCREMENTAL PARADIGM,Automotive,285.66,240.04,False
+PROD1988,Cross-group exuding workforce , Grocery,78.95,199.37,True
+PROD1989,Reactive value-added support , Toys,437.26,96.22,False
+PROD1990,Persistent actuating standardization ,electronics,493.2,160.65,False
+PROD1991,Quality-Focused Didactic Intranet,toys,77.76,187.66,False
+PROD1992,Customer-focused zero administration pricing structure ,Clothing ,358.88,65.12,True
+PROD1993,Mandatory secondary Internet solution ,Toys,380.21,41.85,False
+PROD1994,Ameliorated Bi-Directional Adapter, Automotive,199.86,183.44,True
+PROD1995,VISION-ORIENTED REGIONAL HELP-DESK,Clothing,372.43,132.23,False
+PROD1996,SHARABLE EVEN-KEELED OPEN SYSTEM,TOYS,484.12,222.4,False
+PROD1997,pERSEVERING INTANGIBLE DATABASE,ELECTRONICS,380.01,18.96,False
+PROD1998,Innovative Reciprocal Hierarchy,grocery,407.96,239.23,False
+PROD1999,enhanced 24/7 success,Grocery,303.36,77.19,True
