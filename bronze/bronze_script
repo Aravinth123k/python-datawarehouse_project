@@ -13,6 +13,7 @@ try:
     CONNECTION=f'mssql://@{SERVER}/{DATABASE}?driver={DRIVER}'
     
     engine=create_engine(CONNECTION,isolation_level="AUTOCOMMIT")
+    global con
     con=engine.connect()
     
 except Exception:
@@ -20,18 +21,22 @@ except Exception:
     print("Error occured....")
     
 #creating schemas for the database
-
-con.execute(text('create schema bronze'))
-
-con.execute(text('create schema silver'))
-
-con.execute(text('create schema gold'))
+try:
+    con.execute(text('create schema bronze'))
+    
+    con.execute(text('create schema silver'))
+    
+    con.execute(text('create schema gold'))
+    
+except:
+    
+    pass
 
 #reading datas using pandas
 
-cust=pd.read_csv('C:/Users/aravi/OneDrive/Desktop/python/datawarehousing/datasets/relational_messy_customers.csv')
-prd=pd.read_csv('C:/Users/aravi/OneDrive/Desktop/python/datawarehousing/datasets/relational_messy_products.csv')
-sales=pd.read_csv('C:/Users/aravi/OneDrive/Desktop/python/datawarehousing/datasets/relational_messy_sales.csv')
+cust=pd.read_csv('C:/Users/aravi/OneDrive/Desktop/python/datawarehousing/datasets/customers_dirty.csv')
+prd=pd.read_csv('C:/Users/aravi/OneDrive/Desktop/python/datawarehousing/datasets/products_dirty.csv')
+sales=pd.read_csv('C:/Users/aravi/OneDrive/Desktop/python/datawarehousing/datasets/sales_dirty.csv')
 
 #exploring datasets using pandas
 
