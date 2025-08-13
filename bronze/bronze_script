@@ -38,45 +38,46 @@ cust=pd.read_csv('C:/Users/aravi/OneDrive/Desktop/python/datawarehousing/dataset
 prd=pd.read_csv('C:/Users/aravi/OneDrive/Desktop/python/datawarehousing/datasets/products_dirty.csv')
 sales=pd.read_csv('C:/Users/aravi/OneDrive/Desktop/python/datawarehousing/datasets/sales_dirty.csv')
 
-#exploring datasets using pandas
-
-print("Customer dataset:\n")
-print(cust.head(5))
-print("-------------------------------------------------------------")
-print("product dataset:\n")
-print(prd.head(5))
-print("--------------------------------------------------------------")
-print("sales dataset:\n")
-print(sales.head(5))
-print("--------------------------------------------------------------")
-
-#load datasets to the bronze layer
-
-cust.to_sql('cust_details',con=con,if_exists='replace',schema='bronze')
-prd.to_sql('prd_details',con=con,if_exists='replace',schema='bronze')
-sales.to_sql('sales_details',con=con,if_exists='replace',schema='bronze')
-
-#validate bronze layer
-
-data=con.execute(text("select top 10 * from bronze.cust_details"))
-for i in data:
-    print(i)
+if __name__=='__main__':
+    #exploring datasets using pandas
     
-print("---------------------------------------------------------------")
+    print("Customer dataset:\n")
+    print(cust.head(5))
+    print("-------------------------------------------------------------")
+    print("product dataset:\n")
+    print(prd.head(5))
+    print("--------------------------------------------------------------")
+    print("sales dataset:\n")
+    print(sales.head(5))
+    print("--------------------------------------------------------------")
     
-data2=con.execute(text("select top 10 * from bronze.prd_details"))
-for i in data2:
-    print(i)
+    #load datasets to the bronze layer
     
-print("----------------------------------------------------------------")
-
-data3=con.execute(text("select top 10 * from bronze.sales_details"))
-for i in data3:
-    print(i)
+    cust.to_sql('cust_details',con=con,if_exists='replace',schema='bronze')
+    prd.to_sql('prd_details',con=con,if_exists='replace',schema='bronze')
+    sales.to_sql('sales_details',con=con,if_exists='replace',schema='bronze')
     
-print("----------------------------------------------------------------")
-
+    #validate bronze layer
     
+    data=con.execute(text("select top 10 * from bronze.cust_details"))
+    for i in data:
+        print(i)
+        
+    print("---------------------------------------------------------------")
+        
+    data2=con.execute(text("select top 10 * from bronze.prd_details"))
+    for i in data2:
+        print(i)
+        
+    print("----------------------------------------------------------------")
+    
+    data3=con.execute(text("select top 10 * from bronze.sales_details"))
+    for i in data3:
+        print(i)
+        
+    print("----------------------------------------------------------------")
+    
+        
 
     
 
